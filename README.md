@@ -1,4 +1,4 @@
-                                           WorkoutDBProj
+WorkoutDBProj
 -----------------------------------------------------------------------------------------------------------
 Description: This Project is to store data on workout progress and display it in graph form. 
 
